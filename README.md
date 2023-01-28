@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama)](https://github.com/AkioYokoyama/AkioYokoyama)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkioYokoyama)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AkioYokoyama/AkioYokoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
