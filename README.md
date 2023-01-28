@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=AkioYokoyama&style=flat-square)
-https://img.shields.io/github/stars/AkioYokoyama
+![](https://komarev.com/ghpvc/?username=AkioYokoyama&style=flat)
+![](https://img.shields.io/github/stars/AkioYokoyama)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/AkioYokoyama/posts.svg)](http://qiita.com/AkioYokoyama)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/AkioYokoyama/contributions.svg)](http://qiita.com/AkioYokoyama)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/AkioYokoyama/followers.svg)](http://qiita.com/AkioYokoyama)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama)](https://github.com/AkioYokoyama/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama)](https://github.com/AkioYokoyama/AkioYokoyama)
 
 <!--
 **AkioYokoyama/AkioYokoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
