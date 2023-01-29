@@ -7,7 +7,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/AkioYokoyama/followers.svg)](http://qiita.com/AkioYokoyama)
 
 ## Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama&title=multilanguage,pullrequest,commits,repositories,stars)](https://github.com/AkioYokoyama/AkioYokoyama)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama&title=pullrequest,commits,repositories,stars)](https://github.com/AkioYokoyama/AkioYokoyama)
 
 ## Profile Summary Card
 [![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
