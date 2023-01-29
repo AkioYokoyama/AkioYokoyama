@@ -7,7 +7,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/AkioYokoyama/followers.svg)](http://qiita.com/AkioYokoyama)
 
 ## Stats
-![AkioYokoyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkioYokoyama&count_private=true&show_icons=true) ![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/0-profile-details.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=AkioYokoyama&count_private=true&show_icons=true" alt="Stats" width="342px" /> <img src="https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/0-profile-details.svg" alt="Summary Cards" width="500px" />
   
 <details>
 <summary>More...</summary>
@@ -22,7 +22,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama&title=PullRequest,Commits,Repositories,Stars)](https://github.com/AkioYokoyama/AkioYokoyama)
 ### Secrets
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama&rank=SECRET)](https://github.com/AkioYokoyama/AkioYokoyama)
-
 
 <!--
 Summary Cardで表示するため不要
