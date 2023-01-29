@@ -6,10 +6,14 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/AkioYokoyama/contributions.svg)](http://qiita.com/AkioYokoyama)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/AkioYokoyama/followers.svg)](http://qiita.com/AkioYokoyama)
 
+## Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkioYokoyama)](https://github.com/AkioYokoyama/AkioYokoyama)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkioYokoyama&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkioYokoyama)](https://github.com/anuraghazra/github-readme-stats)
+## Profile Summary Card
+[![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **AkioYokoyama/AkioYokoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
