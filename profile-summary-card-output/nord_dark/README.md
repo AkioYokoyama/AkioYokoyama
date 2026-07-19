@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/AkioYokoyama/AkioYokoyama/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
+```
+
+    
